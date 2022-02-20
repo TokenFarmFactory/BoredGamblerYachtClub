@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x9a65c20789e3900d985d9fbd514b8ed86d444065",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x9a65c20789e3900d985d9fbd514b8ed86d444065",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 80001
+  },
+  "NFT_NAME": "The Boring Gambler Yacht Club",
+  "SYMBOL": "TBGYC",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 999000000000000000000,
+  "DISPLAY_COST": 1,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/the-boring-gambler-yacht-club-v2",
+  "SHOW_BACKGROUND": true
+}
